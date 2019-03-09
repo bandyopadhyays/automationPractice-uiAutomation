@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16664" started-at="2019-03-09T11:17:39Z" finished-at="2019-03-09T11:17:55Z">
+    <groups>
+    </groups>
+    <test name="Login test Cases" duration-ms="16664" started-at="2019-03-09T11:17:39Z" finished-at="2019-03-09T11:17:55Z">
+      <class name="uiAutomation.test.login.LoginTests">
+        <test-method status="PASS" signature="tc_001_LoginWithValidCredentials()[pri:0, instance:uiAutomation.test.login.LoginTests@17550481]" name="tc_001_LoginWithValidCredentials" duration-ms="16585" started-at="2019-03-09T11:17:39Z" finished-at="2019-03-09T11:17:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_LoginWithValidCredentials -->
+      </class> <!-- uiAutomation.test.login.LoginTests -->
+    </test> <!-- Login test Cases -->
+  </suite> <!-- Suite -->
+</testng-results>
