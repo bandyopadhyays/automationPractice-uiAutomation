@@ -22,6 +22,10 @@ public class LoginTests {
 		WebElement submit=driver.findElement(By.xpath("//button[@id='SubmitLogin']"));
 		submit.click();
 		driver.close();
+		
+		/**
+		 * 
+		 */
 	}
 
 }
